@@ -1,0 +1,7 @@
+OperacionesListener.class
+OperacionesLexer.class
+OperacionesBaseListener.class
+OperacionesParser$ExprContext.class
+EvaluarExpresionesPrefijas$EvalListener.class
+EvaluarExpresionesPrefijas.class
+OperacionesParser.class
