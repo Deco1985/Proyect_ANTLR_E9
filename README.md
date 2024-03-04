@@ -1,12 +1,12 @@
 # Proyect_ANTLR_E9
 
-##Descripción del Proyecto en el Repositorio
+## Descripción del Proyecto en el Repositorio
 
 Este proyecto se centra en la creación y exploración de una gramática sencilla para operaciones aritméticas utilizando ANTLR4. La gramática permite representar expresiones matemáticas básicas, como suma, resta, multiplicación, división y potenciación, así como la capacidad de agrupar expresiones mediante el uso de paréntesis.
 
 El objetivo principal del proyecto es profundizar en el análisis léxico y sintáctico de expresiones matemáticas utilizando ANTLR4. Esto implica la generación de analizadores léxicos y sintácticos a partir de la gramática definida, así como la comprensión y manipulación de los árboles de parseo resultantes.
 
-##El repositorio incluirá:
+## El repositorio incluirá:
 
 -La gramática ANTLR4 que define las reglas de la gramática para las operaciones aritméticas.
 -Archivos de prueba que contienen expresiones aritméticas para validar el funcionamiento del analizador léxico y sintáctico.
